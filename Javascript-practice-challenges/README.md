@@ -3,6 +3,6 @@
 This repository contains solutions to JavaScript practice challenges assigned by the Harvest School of Technology. The exercises are divided into two sets, and each file contains well-commented, plain JavaScript solutions.
 
 # File Structure
-Set1-challenges.js → Solutions for Set 1
+Set1-challenges.js → Solutions for Set 1,
 Set2-challenges.js → Solutions for Set 2
 
