@@ -4,6 +4,6 @@ This repository contains solutions to JavaScript practice challenges assigned by
 
 # File Structure
 Set1-challenges.js → Solutions for Set 1,
-Set2-challenges.js → Solutions for Set 2
+Set2-challenges.js → Solutions for Set 2,
 Set3-challenges.js → Solutions for Set 3
 
